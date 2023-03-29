@@ -9,7 +9,7 @@ Also be aware, that files, that are encrypted with this programm,
 could be encrypted, locked or not accessable forever!                
 It's recommanded to only encrypt copies!
 
-To turn the .py-programm into an exe-file, you can use pyinstaller or auto-py-tp-exe:
+To convert the .py-programm into an exe-file, you can use pyinstaller or auto-py-tp-exe:
 
 >pip install pyinstaller 
 
@@ -24,3 +24,5 @@ To use the python-file you have to install the cryptography libary
 >pip(3) install cryptography
 
 >python -m install cryptography
+
+Download the executable or the python-code on my website: https://chimera83795.github.io/
