@@ -1,6 +1,7 @@
 # fernet en-/decryption
 
 This programm en-/decrypts target files or folders.
+The executable was converted with pyinstaller (https://pyinstaller.org/)
 
 !!!Warning! This is for educational porpuse only!!!                  
 Doesn't use this programm against files without permission!            
