@@ -1,5 +1,6 @@
 # fernet en-/decryption
 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 This programm en-/decrypts target files or folders.
 The executable was converted with pyinstaller (https://pyinstaller.org/)
 
