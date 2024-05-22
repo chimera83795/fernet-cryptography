@@ -262,6 +262,6 @@ options = shows the options for en-/decryption
     else:
         print("\n[-]Command not found\n")
         main()
-
-showbanner()
-main()
+if __name__ == "__main__":
+    showbanner()
+    main()
