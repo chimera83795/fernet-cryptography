@@ -22,9 +22,9 @@ def showbanner():
                                        by chimera83795
 #####################################################################
                                                                     
-!!!Warning! This is for educational porpuse only!!!                  
-Doesn't use this programm against files without permission!            
-The author don't take any resonsability for things,                  
+!!!Warning!!!                  
+Don't use this programm against files without permission!            
+The author doesn't take any resonsability for things,                  
 that are done with this programm!                                    
 Also be aware, that files, that are encrypted with this programm,    
 could be encrypted, locked or not accessable forever!                
