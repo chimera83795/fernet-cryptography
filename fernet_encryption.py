@@ -64,7 +64,7 @@ def encrypt(path, target_files):
         key = Fernet.generate_key()
         with open("thekey.key" , "wb") as thekey:
             thekey.write(key)
-            print("[+]Successfully saved the key as thekey.key in current workingdirectory ")
+            print("[+]Successfully saved the key as thekey.key in current working directory ")
         
     os.chdir(path)
     for file in files:
@@ -130,7 +130,7 @@ def encrypt_all(path):
         key = Fernet.generate_key()
         with open("thekey.key" , "wb") as thekey:
             thekey.write(key)
-            print("[+]Successfully saved the key as thekey.key in current workingdirectory ")    
+            print("[+]Successfully saved the key as thekey.key in current working directory ")    
     os.chdir(path)
     for file in files:
             try:
