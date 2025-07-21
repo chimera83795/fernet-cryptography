@@ -27,4 +27,4 @@ To use the python-file you have to install the cryptography libary
 
 >python -m install cryptography
 
-Download the executable or the python-code on my website: https://chimera83795.github.io/
+Download the executable or the python-code on my website: https://chimera83795.github.io/downloads.html
